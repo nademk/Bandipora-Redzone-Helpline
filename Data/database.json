@@ -1,600 +1,599 @@
 {
-	"categories": [
-    {
-		"categoryName": "Nowgam(Banakoot)"
-	},
-	{
-		"categoryName": "Konan"
-	},
-	{
-		"categoryName": "Gund-i-Qaiser"
-	},
-	{
-		"categoryName": "Gund-i-Dachina"
-	},
-	{
-		"categoryName": "Hajin"
-	},
-	{
-		"categoryName": "Madwan"
-	},
-	{
-		"categoryName": "Batagund"
-	},
-	{
-		"categoryName": "Chandergeer"
-	},
-	{
-		"categoryName": "Kosumbagh(Hakabara)"
-	},
-	{
-		"categoryName": "S.K. Bala"
-	},
-	{
-		"categoryName": "Gundi-i-Jahangeer"
-	},
-	{
-		"categoryName": "Naidkhai"
-	}
-	
+	"categories": [{
+			"categoryName": "Nowgam(Banakoot)"
+		},
+		{
+			"categoryName": "Konan"
+		},
+		{
+			"categoryName": "Gund-i-Qaiser"
+		},
+		{
+			"categoryName": "Gund-i-Dachina"
+		},
+		{
+			"categoryName": "Hajin"
+		},
+		{
+			"categoryName": "Madwan"
+		},
+		{
+			"categoryName": "Batagund"
+		},
+		{
+			"categoryName": "Chandergeer"
+		},
+		{
+			"categoryName": "Kosumbagh(Hakabara)"
+		},
+		{
+			"categoryName": "S.K. Bala"
+		},
+		{
+			"categoryName": "Gundi-i-Jahangeer"
+		},
+		{
+			"categoryName": "Naidkhai"
+		}
+
 	],
 	"sites": [
 
 		{
-	"name": "Tehsildar Bandipora",
-	"profession": "Tehsildar",
-	"phone": "9797015308",
-	"category": "Nowagam(Bonakoot)"
-}, {
-	"name": "NT Concerned",
-	"profession": "NT",
-	"phone": "9541334686",
-	"category": "Nowagam(Bonakoot)"
-}, {
-	"name": "SHO Pethakoot",
-	"profession": "SHO",
-	"phone": "7006161336",
-	"category": "Nowagam(Bonakoot)"
-}, {
-	"name": "Duty Magistrate",
-	"profession": "DM",
-	"phone": "9906686139",
-	"category": "Nowagam(Bonakoot)"
-},
-  {
-		"name": "TSO",
-		"profession": "TSO",
-		"phone": "7006820651",
-		"category": "Nowagam(Bonakoot)"
-},
-  {
-		"name": "Dr. Tariq Iqbal",
-		"profession": "Doctor",
-		"phone": "9796914496",
-		"category": "Nowagam(Bonakoot)"
-},
-  {
-		"name": "Dr. Tariq Jan",
-		"profession": "Doctor",
-		"phone": "7006244608",
-		"category": "Nowagam(Bonakoot)"
-},
-  {
-		"name": "Dr. Shabir Ahmad Bhat",
-		"profession": "Doctor",
-		"phone": "7006326088",
-		"category": "Nowagam(Bonakoot)"
-},
-  {
-		"name": "Mohd Yousuf Samoon(Pharmacist)",
-		"profession": "Pharmacist",
-		"phone": "9149836187",
-		"category": "Nowagam(Bonakoot)"
-},
-{
-	"name": "Tehsildar Bandipora",
-	"profession": "Tehsildar",
-	"phone": "9797015308",
-	"category": "Konan"
-}, {
-	"name": "SHO Concerned",
-	"profession": "SHO",
-	"phone": "9596767413",
-	"category": "Konan"
-}, {
-	"name": "Duty Magistrate",
-	"profession": "DM",
-	"phone": "9596225114",
-	"category": "Konan"
-},
-  {
-		"name": "TSO",
-		"profession": "TSO",
-		"phone": "7006820651",
-		"category": "Konan"
-},
-  {
-		"name": "Dr. Mohsin",
-		"profession": "Doctor",
-		"phone": "7051207397",
-		"category": "Konan"
-},
-  {
-		"name": "Dr. Shahnawaz",
-		"profession": "Doctor",
-		"phone": "7006403006",
-		"category": "Konan"
-},
-  {
-		"name": "Dr. Muzamil",
-		"profession": "Doctor",
-		"phone": "7006807484",
-		"category": "Konan"
-},
-  {
-		"name": "Manzoor Ahmad(Pharmacist)",
-		"profession": "Pharmacist",
-		"phone": "7889538713",
-		"category": "Konan"
-},
-{
-	"name": "Tehsildar Bandipora",
-	"profession": "Tehsildar",
-	"phone": "9797015308",
-	"category": "Gund-i-Qaiser"
-}, {
-	"name": "SHO Bandipora",
-	"profession": "SHO",
-	"phone": "9596767413",
-	"category": "Gund-i-Qaiser"
-}, {
-	"name": "Duty Magistrate",
-	"profession": "DM",
-	"phone": "99066462823",
-	"category": "Gund-i-Qaiser"
-},
-  {
-		"name": "TSO",
-		"profession": "TSO",
-		"phone": "7006686407",
-		"category": "Gund-i-Qaiser"
-},
-  {
-		"name": "Dr. GH Hassan Akhoon",
-		"profession": "Doctor",
-		"phone": "9906686602",
-		"category": "Gund-i-Qaiser"
-},
-  {
-		"name": "Dr. Tariq Ahmad Sofi",
-		"profession": "Doctor",
-		"phone": "9596184321",
-		"category": "Gund-i-Qaiser"
-},
-  {
-		"name": "Manzoor Ahmad(Pharmacist)",
-		"profession": "Pharmacist",
-		"phone": "7889538713",
-		"category": "Gund-i-Qaiser"
-},
-{
-	"name": "Tehsildar Bandipora",
-	"profession": "Tehsildar",
-	"phone": "9797015308",
-	"category": "Gund-i-Dachina"
-},{
-	"name": "SHO Aragam",
-	"profession": "SHO",
-	"phone": "9596767421",
-	"category": "Gund-i-Dachina"
-}, {
-	"name": "Duty Magistrate",
-	"profession": "DM",
-	"phone": "7006921875",
-	"category": "Gund-i-Dachina"
-},
-  {
-		"name": "TSO",
-		"profession": "TSO",
-		"phone": "7006686407",
-		"category": "Gund-i-Dachina"
-},
-  {
-		"name": "Dr. Majid Khan",
-		"profession": "Doctor",
-		"phone": "7006026313",
-		"category": "Gund-i-Dachina"
-},
-  {
-		"name": "Dr. Reyaz Ur Rehman",
-		"profession": "Doctor",
-		"phone": "9906068027",
-		"category": "Gund-i-Dachina"
-},
-  {
-		"name": "Dr. Irfan Hussain",
-		"profession": "Doctor",
-		"phone": "7889898644",
-		"category": "Gund-i-Dachina"
-},{
-		"name": "Dr. Javeed Ahmad Dar",
-		"profession": "Doctor",
-		"phone": "9797387094",
-		"category": "Gund-i-Dachina"
-},
-  {
-		"name": "Bashir Ahmad(Pharmacist)",
-		"profession": "Pharmacist",
-		"phone": "9697962636",
-		"category": "Gund-i-Dachina"
-},
-{
-	"name": "Tehsildar Hajin",
-	"profession": "Tehsildar",
-	"phone": "9469636449",
-	"category": "Hajin"
-}, {
-	"name": "NT Concerned",
-	"profession": "NT",
-	"phone": "7006821870",
-	"category": "Hajin"
-}, {
-	"name": "SHO Concerned",
-	"profession": "SHO",
-	"phone": "9596767431",
-	"category": "Hajin"
-}, {
-	"name": "Duty Magistrate",
-	"profession": "DM",
-	"phone": "8899030121",
-	"category": "Hajin"
-},
-  {
-		"name": "TSO",
-		"profession": "TSO",
-		"phone": "8899031558",
-		"category": "Hajin"
-},
-  {
-		"name": "Dr. Ab Rashid Teli",
-		"profession": "Doctor",
-		"phone": "9796360738",
-		"category": "Hajin"
-},
-  {
-		"name": "Dr. Reyaz Ah",
-		"profession": "Doctor",
-		"phone": "7006351889",
-		"category": "Hajin"
-},
-  {
-		"name": "Dr. Shabir Ahmad",
-		"profession": "Doctor",
-		"phone": "7889466458",
-		"category": "Hajin"
-},
-  {
-		"name": "Dr. Nisar Ah Najar",
-		"profession": "Doctor",
-		"phone": "7006719885",
-		"category": "Hajin"
-},
-{
-	"name": "Tehsildar Hajin",
-	"profession": "Tehsildar",
-	"phone": "9469636449",
-	"category": "Madwan"
-}, {
-	"name": "NT Concerned",
-	"profession": "NT",
-	"phone": "9149804519",
-	"category": "Madwan"
-}, {
-	"name": "SHO Concerned",
-	"profession": "SHO",
-	"phone": "9596767431",
-	"category": "Madwan"
-}, {
-	"name": "Duty Magistrate",
-	"profession": "DM",
-	"phone": "9149804519",
-	"category": "Madwan"
-},
-  {
-		"name": "TSO",
-		"profession": "TSO",
-		"phone": "8899031558",
-		"category": "Madwan"
-},
-  {
-		"name": "Dr. Iftikar",
-		"profession": "Doctor",
-		"phone": "9149987940",
-		"category": "Madwan"
-},
-  {
-		"name": "Dr. Nisar Ah Najar",
-		"profession": "Doctor",
-		"phone": "7006719885",
-		"category": "Madwan"
-},
-  {
-		"name": "Nisar Ah (Pharmacist)",
-		"profession": "Pharmacist",
-		"phone": "7006563687",
-		"category": "Madwan"
-},
-{
-	"name": "Tehsildar Hajin",
-	"profession": "Tehsildar",
-	"phone": "9469636449",
-	"category": "Batagund"
-}, {
-	"name": "NT Concerned",
-	"profession": "NT",
-	"phone": "7006821870",
-	"category": "Batagund"
-}, {
-	"name": "SHO Concerned",
-	"profession": "SHO",
-	"phone": "9596767431",
-	"category": "Batagund"
-}, {
-	"name": "Duty Magistrate",
-	"profession": "DM",
-	"phone": "9149804519",
-	"category": "Batagund"
-},
-  {
-		"name": "TSO",
-		"profession": "TSO",
-		"phone": "8899031558",
-		"category": "Batagund"
-},
-  {
-		"name": "Dr. Iftikar",
-		"profession": "Doctor",
-		"phone": "9149987940",
-		"category": "Batagund"
-},
-  {
-		"name": "Dr. Nisar Ah Najar",
-		"profession": "Doctor",
-		"phone": "7006719885",
-		"category": "Batagund"
-},
-  {
-		"name": "Nisar Ah (Pharmacist)",
-		"profession": "Pharmacist",
-		"phone": "7006563687",
-		"category": "Batagund"
-},
-{
-	"name": "Tehsildar Hajin",
-	"profession": "Tehsildar",
-	"phone": "9469636449",
-	"category": "Chandergeer"
-}, {
-	"name": "NT Concerned",
-	"profession": "NT",
-	"phone": "9149804519",
-	"category": "Chandergeer"
-}, {
-	"name": "SHO Concerned",
-	"profession": "SHO",
-	"phone": "9596767431",
-	"category": "Chandergeer"
-}, {
-	"name": "Duty Magistrate",
-	"profession": "DM",
-	"phone": "9596321188",
-	"category": "Chandergeer"
-},
-  {
-		"name": "TSO",
-		"profession": "TSO",
-		"phone": "8899031558",
-		"category": "Chandergeer"
-},
-  {
-		"name": "Dr. Tasaduq",
-		"profession": "Doctor",
-		"phone": "9419004775",
-		"category": "Chandergeer"
-},
-  {
-		"name": "Dr. Nisar Ah Najar",
-		"profession": "Doctor",
-		"phone": "7006719885",
-		"category": "Chandergeer"
-},
-  {
-		"name": "Mohammad Mubarak",
-		"profession": "Pharmacist",
-		"phone": "9149816828",
-		"category": "Chandergeer"
-},
-{
-	"name": "Tehsildar Hajin",
-	"profession": "Tehsildar",
-	"phone": "9469636449",
-	"category": "Kosumbagh(Hakabara)"
-}, {
-	"name": "NT Concerned",
-	"profession": "NT",
-	"phone": "9149804519",
-	"category": "Kosumbagh(Hakabara)"
-}, {
-	"name": "SHO Concerned",
-	"profession": "SHO",
-	"phone": "9596767431",
-	"category": "Kosumbagh(Hakabara)"
-}, {
-	"name": "Duty Magistrate",
-	"profession": "DM",
-	"phone": "6005432611",
-	"category": "Kosumbagh(Hakabara)"
-},
-  {
-		"name": "TSO",
-		"profession": "TSO",
-		"phone": "8899031558",
-		"category": "Kosumbagh(Hakabara)"
-},
-  {
-		"name": "Dr. Mohammad Sultan",
-		"profession": "Doctor",
-		"phone": "7006103477",
-		"category": "Kosumbagh(Hakabara)"
-},
-{
-	"name": "Tehsildar Ajas",
-	"profession": "Tehsildar",
-	"phone": "8899085355",
-	"category": "S.K. Bala"
-}, {
-	"name": "NT Concerned",
-	"profession": "NT",
-	"phone": "9149804519",
-	"category": "S.K. Bala"
-}, {
-	"name": "DO Ajas",
-	"profession": "SHO",
-	"phone": "9596767452",
-	"category": "S.K. Bala"
-}, {
-	"name": "Duty Magistrate",
-	"profession": "DM",
-	"phone": "7889899029",
-	"category": "S.K. Bala"
-},
-  {
-		"name": "TSO",
-		"profession": "TSO",
-		"phone": "8899031558",
-		"category": "S.K. Bala"
-},
-  {
-		"name": "Dr. Tariq Ah",
-		"profession": "Doctor",
-		"phone": "7780878673",
-		"category": "S.K. Bala"
-},
-  {
-		"name": "Dr. Syed Mubarak",
-		"profession": "Doctor",
-		"phone": "7006159155",
-		"category": "S.K. Bala"
-},
-  {
-		"name": "Fayaz Ahmad (Pharmacist)",
-		"profession": "Pharmacist",
-		"phone": "7006807445",
-		"category": "S.K. Bala"
-},
-{
-	"name": "Tehsildar Concerned",
-	"profession": "Tehsildar",
-	"phone": "9469636449",
-	"category": "Gund-i-Jehangeer"
-}, {
-	"name": "NT Concerned",
-	"profession": "NT",
-	"phone": "7006821870",
-	"category": "Gund-i-Jehangeer"
-}, {
-	"name": "SHO Concerned",
-	"profession": "SHO",
-	"phone": "9596767431",
-	"category": "Gund-i-Jehangeer"
-}, {
-	"name": "Duty Magistrate",
-	"profession": "DM",
-	"phone": "7889380290",
-	"category": "Gund-i-Jehangeer"
-},
-  {
-		"name": "TSO",
-		"profession": "TSO",
-		"phone": "8899031558",
-		"category": "Gund-i-Jehangeer"
-},
-  {
-		"name": "Dr. Altaf Hussain",
-		"profession": "Doctor",
-		"phone": "9419004847",
-		"category": "Gund-i-Jehangeer"
-},
-  {
-		"name": "Dr. Atta Mohammad",
-		"profession": "Doctor",
-		"phone": "9419003423",
-		"category": "Gund-i-Jehangeer"
-},
-  {
-		"name": "Dr. Mohammad Altaf",
-		"profession": "Doctor",
-		"phone": "9858996516",
-		"category": "Gund-i-Jehangeer"
-},
-  {
-		"name": "Dr. Faheem Gowhar",
-		"profession": "Doctor",
-		"phone": "9906213210",
-		"category": "Gund-i-Jehangeer"
-},
-  {
-		"name": "Dr. Shanfira",
-		"profession": "Doctor",
-		"phone": "6006323941",
-		"category": "Gund-i-Jehangeer"
-},
-{
-	"name": "Tehsildar Concerned",
-	"profession": "Tehsildar",
-	"phone": "9469636449",
-	"category": "Naidkhai"
-}, {
-	"name": "NT Concerned",
-	"profession": "NT",
-	"phone": "7006821870",
-	"category": "Naidkhai"
-}, {
-	"name": "SHO Concerned",
-	"profession": "SHO",
-	"phone": "9596767431",
-	"category": "Naidkhai"
-}, {
-	"name": "Duty Magistrate",
-	"profession": "DM",
-	"phone": "9149802731",
-	"category": "Naidkhai"
-},
-  {
-		"name": "TSO",
-		"profession": "TSO",
-		"phone": "8899031558",
-		"category": "Naidkhai"
-},
-  {
-		"name": "Dr. Muzaffar Ahmad",
-		"profession": "Doctor",
-		"phone": "7006013689",
-		"category": "Naidkhai"
-},
-  {
-		"name": "Dr. Zubair Ahmad",
-		"profession": "Doctor",
-		"phone": "7006197025",
-		"category": "Naidkhai"
-},
-  {
-		"name": "Jameel Farooq (Pharmacist)",
-		"profession": "Pharmacist",
-		"phone": "7006912553",
-		"category": "Naidkhai"
-}
-	
+			"name": "Tehsildar Bandipora",
+			"profession": "Tehsildar",
+			"phone": "9797015308",
+			"category": "Nowagam(Bonakoot)"
+		}, {
+			"name": "NT Concerned",
+			"profession": "NT",
+			"phone": "9541334686",
+			"category": "Nowagam(Bonakoot)"
+		}, {
+			"name": "SHO Pethakoot",
+			"profession": "SHO",
+			"phone": "7006161336",
+			"category": "Nowagam(Bonakoot)"
+		}, {
+			"name": "Duty Magistrate",
+			"profession": "DM",
+			"phone": "9906686139",
+			"category": "Nowagam(Bonakoot)"
+		},
+		{
+			"name": "TSO",
+			"profession": "TSO",
+			"phone": "7006820651",
+			"category": "Nowagam(Bonakoot)"
+		},
+		{
+			"name": "Dr. Tariq Iqbal",
+			"profession": "Doctor",
+			"phone": "9796914496",
+			"category": "Nowagam(Bonakoot)"
+		},
+		{
+			"name": "Dr. Tariq Jan",
+			"profession": "Doctor",
+			"phone": "7006244608",
+			"category": "Nowagam(Bonakoot)"
+		},
+		{
+			"name": "Dr. Shabir Ahmad Bhat",
+			"profession": "Doctor",
+			"phone": "7006326088",
+			"category": "Nowagam(Bonakoot)"
+		},
+		{
+			"name": "Mohd Yousuf Samoon(Pharmacist)",
+			"profession": "Pharmacist",
+			"phone": "9149836187",
+			"category": "Nowagam(Bonakoot)"
+		},
+		{
+			"name": "Tehsildar Bandipora",
+			"profession": "Tehsildar",
+			"phone": "9797015308",
+			"category": "Konan"
+		}, {
+			"name": "SHO Concerned",
+			"profession": "SHO",
+			"phone": "9596767413",
+			"category": "Konan"
+		}, {
+			"name": "Duty Magistrate",
+			"profession": "DM",
+			"phone": "9596225114",
+			"category": "Konan"
+		},
+		{
+			"name": "TSO",
+			"profession": "TSO",
+			"phone": "7006820651",
+			"category": "Konan"
+		},
+		{
+			"name": "Dr. Mohsin",
+			"profession": "Doctor",
+			"phone": "7051207397",
+			"category": "Konan"
+		},
+		{
+			"name": "Dr. Shahnawaz",
+			"profession": "Doctor",
+			"phone": "7006403006",
+			"category": "Konan"
+		},
+		{
+			"name": "Dr. Muzamil",
+			"profession": "Doctor",
+			"phone": "7006807484",
+			"category": "Konan"
+		},
+		{
+			"name": "Manzoor Ahmad(Pharmacist)",
+			"profession": "Pharmacist",
+			"phone": "7889538713",
+			"category": "Konan"
+		},
+		{
+			"name": "Tehsildar Bandipora",
+			"profession": "Tehsildar",
+			"phone": "9797015308",
+			"category": "Gund-i-Qaiser"
+		}, {
+			"name": "SHO Bandipora",
+			"profession": "SHO",
+			"phone": "9596767413",
+			"category": "Gund-i-Qaiser"
+		}, {
+			"name": "Duty Magistrate",
+			"profession": "DM",
+			"phone": "99066462823",
+			"category": "Gund-i-Qaiser"
+		},
+		{
+			"name": "TSO",
+			"profession": "TSO",
+			"phone": "7006686407",
+			"category": "Gund-i-Qaiser"
+		},
+		{
+			"name": "Dr. GH Hassan Akhoon",
+			"profession": "Doctor",
+			"phone": "9906686602",
+			"category": "Gund-i-Qaiser"
+		},
+		{
+			"name": "Dr. Tariq Ahmad Sofi",
+			"profession": "Doctor",
+			"phone": "9596184321",
+			"category": "Gund-i-Qaiser"
+		},
+		{
+			"name": "Manzoor Ahmad(Pharmacist)",
+			"profession": "Pharmacist",
+			"phone": "7889538713",
+			"category": "Gund-i-Qaiser"
+		},
+		{
+			"name": "Tehsildar Bandipora",
+			"profession": "Tehsildar",
+			"phone": "9797015308",
+			"category": "Gund-i-Dachina"
+		}, {
+			"name": "SHO Aragam",
+			"profession": "SHO",
+			"phone": "9596767421",
+			"category": "Gund-i-Dachina"
+		}, {
+			"name": "Duty Magistrate",
+			"profession": "DM",
+			"phone": "7006921875",
+			"category": "Gund-i-Dachina"
+		},
+		{
+			"name": "TSO",
+			"profession": "TSO",
+			"phone": "7006686407",
+			"category": "Gund-i-Dachina"
+		},
+		{
+			"name": "Dr. Majid Khan",
+			"profession": "Doctor",
+			"phone": "7006026313",
+			"category": "Gund-i-Dachina"
+		},
+		{
+			"name": "Dr. Reyaz Ur Rehman",
+			"profession": "Doctor",
+			"phone": "9906068027",
+			"category": "Gund-i-Dachina"
+		},
+		{
+			"name": "Dr. Irfan Hussain",
+			"profession": "Doctor",
+			"phone": "7889898644",
+			"category": "Gund-i-Dachina"
+		}, {
+			"name": "Dr. Javeed Ahmad Dar",
+			"profession": "Doctor",
+			"phone": "9797387094",
+			"category": "Gund-i-Dachina"
+		},
+		{
+			"name": "Bashir Ahmad(Pharmacist)",
+			"profession": "Pharmacist",
+			"phone": "9697962636",
+			"category": "Gund-i-Dachina"
+		},
+		{
+			"name": "Tehsildar Hajin",
+			"profession": "Tehsildar",
+			"phone": "9469636449",
+			"category": "Hajin"
+		}, {
+			"name": "NT Concerned",
+			"profession": "NT",
+			"phone": "7006821870",
+			"category": "Hajin"
+		}, {
+			"name": "SHO Concerned",
+			"profession": "SHO",
+			"phone": "9596767431",
+			"category": "Hajin"
+		}, {
+			"name": "Duty Magistrate",
+			"profession": "DM",
+			"phone": "8899030121",
+			"category": "Hajin"
+		},
+		{
+			"name": "TSO",
+			"profession": "TSO",
+			"phone": "8899031558",
+			"category": "Hajin"
+		},
+		{
+			"name": "Dr. Ab Rashid Teli",
+			"profession": "Doctor",
+			"phone": "9796360738",
+			"category": "Hajin"
+		},
+		{
+			"name": "Dr. Reyaz Ah",
+			"profession": "Doctor",
+			"phone": "7006351889",
+			"category": "Hajin"
+		},
+		{
+			"name": "Dr. Shabir Ahmad",
+			"profession": "Doctor",
+			"phone": "7889466458",
+			"category": "Hajin"
+		},
+		{
+			"name": "Dr. Nisar Ah Najar",
+			"profession": "Doctor",
+			"phone": "7006719885",
+			"category": "Hajin"
+		},
+		{
+			"name": "Tehsildar Hajin",
+			"profession": "Tehsildar",
+			"phone": "9469636449",
+			"category": "Madwan"
+		}, {
+			"name": "NT Concerned",
+			"profession": "NT",
+			"phone": "9149804519",
+			"category": "Madwan"
+		}, {
+			"name": "SHO Concerned",
+			"profession": "SHO",
+			"phone": "9596767431",
+			"category": "Madwan"
+		}, {
+			"name": "Duty Magistrate",
+			"profession": "DM",
+			"phone": "9149804519",
+			"category": "Madwan"
+		},
+		{
+			"name": "TSO",
+			"profession": "TSO",
+			"phone": "8899031558",
+			"category": "Madwan"
+		},
+		{
+			"name": "Dr. Iftikar",
+			"profession": "Doctor",
+			"phone": "9149987940",
+			"category": "Madwan"
+		},
+		{
+			"name": "Dr. Nisar Ah Najar",
+			"profession": "Doctor",
+			"phone": "7006719885",
+			"category": "Madwan"
+		},
+		{
+			"name": "Nisar Ah (Pharmacist)",
+			"profession": "Pharmacist",
+			"phone": "7006563687",
+			"category": "Madwan"
+		},
+		{
+			"name": "Tehsildar Hajin",
+			"profession": "Tehsildar",
+			"phone": "9469636449",
+			"category": "Batagund"
+		}, {
+			"name": "NT Concerned",
+			"profession": "NT",
+			"phone": "7006821870",
+			"category": "Batagund"
+		}, {
+			"name": "SHO Concerned",
+			"profession": "SHO",
+			"phone": "9596767431",
+			"category": "Batagund"
+		}, {
+			"name": "Duty Magistrate",
+			"profession": "DM",
+			"phone": "9149804519",
+			"category": "Batagund"
+		},
+		{
+			"name": "TSO",
+			"profession": "TSO",
+			"phone": "8899031558",
+			"category": "Batagund"
+		},
+		{
+			"name": "Dr. Iftikar",
+			"profession": "Doctor",
+			"phone": "9149987940",
+			"category": "Batagund"
+		},
+		{
+			"name": "Dr. Nisar Ah Najar",
+			"profession": "Doctor",
+			"phone": "7006719885",
+			"category": "Batagund"
+		},
+		{
+			"name": "Nisar Ah (Pharmacist)",
+			"profession": "Pharmacist",
+			"phone": "7006563687",
+			"category": "Batagund"
+		},
+		{
+			"name": "Tehsildar Hajin",
+			"profession": "Tehsildar",
+			"phone": "9469636449",
+			"category": "Chandergeer"
+		}, {
+			"name": "NT Concerned",
+			"profession": "NT",
+			"phone": "9149804519",
+			"category": "Chandergeer"
+		}, {
+			"name": "SHO Concerned",
+			"profession": "SHO",
+			"phone": "9596767431",
+			"category": "Chandergeer"
+		}, {
+			"name": "Duty Magistrate",
+			"profession": "DM",
+			"phone": "9596321188",
+			"category": "Chandergeer"
+		},
+		{
+			"name": "TSO",
+			"profession": "TSO",
+			"phone": "8899031558",
+			"category": "Chandergeer"
+		},
+		{
+			"name": "Dr. Tasaduq",
+			"profession": "Doctor",
+			"phone": "9419004775",
+			"category": "Chandergeer"
+		},
+		{
+			"name": "Dr. Nisar Ah Najar",
+			"profession": "Doctor",
+			"phone": "7006719885",
+			"category": "Chandergeer"
+		},
+		{
+			"name": "Mohammad Mubarak",
+			"profession": "Pharmacist",
+			"phone": "9149816828",
+			"category": "Chandergeer"
+		},
+		{
+			"name": "Tehsildar Hajin",
+			"profession": "Tehsildar",
+			"phone": "9469636449",
+			"category": "Kosumbagh(Hakabara)"
+		}, {
+			"name": "NT Concerned",
+			"profession": "NT",
+			"phone": "9149804519",
+			"category": "Kosumbagh(Hakabara)"
+		}, {
+			"name": "SHO Concerned",
+			"profession": "SHO",
+			"phone": "9596767431",
+			"category": "Kosumbagh(Hakabara)"
+		}, {
+			"name": "Duty Magistrate",
+			"profession": "DM",
+			"phone": "6005432611",
+			"category": "Kosumbagh(Hakabara)"
+		},
+		{
+			"name": "TSO",
+			"profession": "TSO",
+			"phone": "8899031558",
+			"category": "Kosumbagh(Hakabara)"
+		},
+		{
+			"name": "Dr. Mohammad Sultan",
+			"profession": "Doctor",
+			"phone": "7006103477",
+			"category": "Kosumbagh(Hakabara)"
+		},
+		{
+			"name": "Tehsildar Ajas",
+			"profession": "Tehsildar",
+			"phone": "8899085355",
+			"category": "S.K. Bala"
+		}, {
+			"name": "NT Concerned",
+			"profession": "NT",
+			"phone": "9149804519",
+			"category": "S.K. Bala"
+		}, {
+			"name": "DO Ajas",
+			"profession": "SHO",
+			"phone": "9596767452",
+			"category": "S.K. Bala"
+		}, {
+			"name": "Duty Magistrate",
+			"profession": "DM",
+			"phone": "7889899029",
+			"category": "S.K. Bala"
+		},
+		{
+			"name": "TSO",
+			"profession": "TSO",
+			"phone": "8899031558",
+			"category": "S.K. Bala"
+		},
+		{
+			"name": "Dr. Tariq Ah",
+			"profession": "Doctor",
+			"phone": "7780878673",
+			"category": "S.K. Bala"
+		},
+		{
+			"name": "Dr. Syed Mubarak",
+			"profession": "Doctor",
+			"phone": "7006159155",
+			"category": "S.K. Bala"
+		},
+		{
+			"name": "Fayaz Ahmad (Pharmacist)",
+			"profession": "Pharmacist",
+			"phone": "7006807445",
+			"category": "S.K. Bala"
+		},
+		{
+			"name": "Tehsildar Concerned",
+			"profession": "Tehsildar",
+			"phone": "9469636449",
+			"category": "Gund-i-Jehangeer"
+		}, {
+			"name": "NT Concerned",
+			"profession": "NT",
+			"phone": "7006821870",
+			"category": "Gund-i-Jehangeer"
+		}, {
+			"name": "SHO Concerned",
+			"profession": "SHO",
+			"phone": "9596767431",
+			"category": "Gund-i-Jehangeer"
+		}, {
+			"name": "Duty Magistrate",
+			"profession": "DM",
+			"phone": "7889380290",
+			"category": "Gund-i-Jehangeer"
+		},
+		{
+			"name": "TSO",
+			"profession": "TSO",
+			"phone": "8899031558",
+			"category": "Gund-i-Jehangeer"
+		},
+		{
+			"name": "Dr. Altaf Hussain",
+			"profession": "Doctor",
+			"phone": "9419004847",
+			"category": "Gund-i-Jehangeer"
+		},
+		{
+			"name": "Dr. Atta Mohammad",
+			"profession": "Doctor",
+			"phone": "9419003423",
+			"category": "Gund-i-Jehangeer"
+		},
+		{
+			"name": "Dr. Mohammad Altaf",
+			"profession": "Doctor",
+			"phone": "9858996516",
+			"category": "Gund-i-Jehangeer"
+		},
+		{
+			"name": "Dr. Faheem Gowhar",
+			"profession": "Doctor",
+			"phone": "9906213210",
+			"category": "Gund-i-Jehangeer"
+		},
+		{
+			"name": "Dr. Shanfira",
+			"profession": "Doctor",
+			"phone": "6006323941",
+			"category": "Gund-i-Jehangeer"
+		},
+		{
+			"name": "Tehsildar Concerned",
+			"profession": "Tehsildar",
+			"phone": "9469636449",
+			"category": "Naidkhai"
+		}, {
+			"name": "NT Concerned",
+			"profession": "NT",
+			"phone": "7006821870",
+			"category": "Naidkhai"
+		}, {
+			"name": "SHO Concerned",
+			"profession": "SHO",
+			"phone": "9596767431",
+			"category": "Naidkhai"
+		}, {
+			"name": "Duty Magistrate",
+			"profession": "DM",
+			"phone": "9149802731",
+			"category": "Naidkhai"
+		},
+		{
+			"name": "TSO",
+			"profession": "TSO",
+			"phone": "8899031558",
+			"category": "Naidkhai"
+		},
+		{
+			"name": "Dr. Muzaffar Ahmad",
+			"profession": "Doctor",
+			"phone": "7006013689",
+			"category": "Naidkhai"
+		},
+		{
+			"name": "Dr. Zubair Ahmad",
+			"profession": "Doctor",
+			"phone": "7006197025",
+			"category": "Naidkhai"
+		},
+		{
+			"name": "Jameel Farooq (Pharmacist)",
+			"profession": "Pharmacist",
+			"phone": "7006912553",
+			"category": "Naidkhai"
+		}
 
-]
+
+	]
 }
