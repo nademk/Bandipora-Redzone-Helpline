@@ -2,7 +2,7 @@
 
 
 
-## Json Database structure [database.json](https://raw.githubusercontent.com/nademk/Bandipora-Redzone-Helpline/master/Data/database.json):
+## Json Database structure [database.json](https://raw.githubusercontent.com/nademk/Bandipora-Redzone-Helpline/master/Data/database.json)
 
 
 
