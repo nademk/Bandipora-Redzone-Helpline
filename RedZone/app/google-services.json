@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "893496860629",
+    "firebase_url": "https://redzonecovid-19.firebaseio.com",
+    "project_id": "redzonecovid-19",
+    "storage_bucket": "redzonecovid-19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893496860629:android:57749460465be2b8a6a75c",
+        "android_client_info": {
+          "package_name": "com.redzone.bandipora"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893496860629-rmq4rp4192pq4tbm3d9i92suh8v15i17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB45s2SxvB-I8_lvkBkXARW4vYB54jtp74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893496860629-rmq4rp4192pq4tbm3d9i92suh8v15i17.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

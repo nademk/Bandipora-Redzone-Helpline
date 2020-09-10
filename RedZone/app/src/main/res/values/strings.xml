@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">RedZone Helpline</string>
+    <string name="app_more">More</string>
+
+    <string name="action_call">CALL</string>
+
+    <string name="app_about">Application Info</string>
+    <string name="app_version_name">[Version 2.0]</string>
+    <string name="about_credits">We are developers</string>
+    <string name="about_text">App is intended to help the people of Covid-19 Redzone areas in case of any emergency. \n\nUser can make phone calls directly by clicking the call button corresponding to the person name.</string>
+    <string name="app_update_default_title">App Update</string>
+    <string name="app_update_default_description">Looks like you have an older\nversion of the app.\nPlease update to get latest\nfeatures and best experience.</string>
+    <string name="app_update_positive_text">UPDATE NOW</string>
+
+</resources>

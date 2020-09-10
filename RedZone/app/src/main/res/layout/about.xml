@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    app:cardElevation="10dp"
+    android:layout_margin="10dp"
+    android:id="@+id/lyt_container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:cardCornerRadius="10dp"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:gravity="center"
+            android:layout_margin="5dp"
+            android:fontFamily="@font/custom_font_bold"
+            android:text="About App"
+            android:id="@+id/infoTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:gravity="center"
+            android:layout_margin="5dp"
+            android:fontFamily="@font/custom_font_semi_bold"
+            android:text="@string/about_text"
+            android:id="@+id/infoSub"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="15dp" />
+
+
+        <TextView
+            android:gravity="center"
+            android:layout_margin="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/custom_font_bold"
+            android:text="@string/app_version_name"
+            android:textSize="14dp"
+            android:textStyle="bold" />
+
+    <LinearLayout
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/github"
+            android:layout_marginRight="5dp"
+            android:src="@drawable/ic_github"
+            android:layout_width="36dp"
+            android:layout_height="wrap_content"/>
+
+        <ImageView
+            android:id="@+id/contact"
+            android:layout_marginLeft="5dp"
+            android:src="@drawable/ic_at"
+            android:layout_width="36dp"
+            android:layout_height="wrap_content"/>
+
+    </LinearLayout>
+
+    </LinearLayout>
+</ScrollView>
+</androidx.cardview.widget.CardView>
