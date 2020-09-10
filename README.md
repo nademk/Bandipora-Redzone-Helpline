@@ -1,6 +1,8 @@
 # Bandipora-Redzone-Helpline
 
 
+## The app is based on firebase realtime database, with unlimited categories & posts.
+
 
 ## Json Database structure [database.json](https://raw.githubusercontent.com/nademk/Bandipora-Redzone-Helpline/master/Data/database.json)
 
